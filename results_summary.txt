@@ -1,0 +1,5 @@
+
+Clean test set: accuracy 82.9%, AUC 0.970.
+Temperature scaling (T = 0.87) changed ECE from 0.110 to 0.118 and NLL from 0.505 to 0.562, with accuracy unchanged.
+Under the strongest shift (gaussian noise, level 0.2), accuracy was 37.5% and ECE was 0.621 after temperature scaling
+(clean calibrated ECE: 0.118; 5.3x higher).
