@@ -29,9 +29,8 @@ A medical image classifier can be accurate and still badly overconfident. In cli
 | Test, temperature scaled (T = 1.09) | 0.857 | 0.974 | 0.101 | 0.502 |
 | Strongest shift (contrast loss 0.8), temperature scaled | 0.625 | – | 0.375 | – |
 
-![Reliability diagrams](reliability_diagrams.png)
-
-![Calibration under shift](calibration_under_shift.png)
+![Reliability diagrams](reliability_diagrams%20(1).png)
+![Calibration under shift](calibration_under_shift%20(1).png)
 
 ## Main findings
 
